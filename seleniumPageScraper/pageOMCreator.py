@@ -151,7 +151,7 @@ class TestPage:
                             matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
                             logging.info(f'Element {element_type} named {text} at {xpath} updated')
                         else:
-                            logging.info(f'Element {element_type} {text} at {xpath} exists')
+                            logging.info(f'Element {element_type} named {text} at {xpath} exists')
                     else:
                         logging.info(f'Element {element_type} named {text} at {xpath} added')
                         new_elements.append({
