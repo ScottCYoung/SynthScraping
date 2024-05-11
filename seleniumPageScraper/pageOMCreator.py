@@ -114,7 +114,7 @@ class TestPage:
                 logger.info('Previous Elements loaded from elements.json')
         except FileNotFoundError:
             existing_elements = []
-            logger.error('File elements.json not found. An empty list will be used instead.')
+            logger.error('File elements.json not found. An new elements.json file will be created.')
         return existing_elements
 
     def compare_elements(self, elements, existing_elements):
@@ -125,8 +125,12 @@ class TestPage:
                 if element.is_displayed():
                     xpath = self.get_xpath(element)
                     text = element.text
+                    if not text:  # if text is empty
+                        aria_label = element.get_attribute('aria-label')
+                        if aria_label:  # if aria-label is available
+                            text = aria_label
                     class_name = element.get_attribute('class')
-                    logging.debug(f'Testing element: {element_type} at {xpath}')  # Log the element being tested
+                    logging.debug(f'Testing element: {element_type} named {text} at {xpath}')  # Log the element being tested
 
                     # Check if the element exists in the existing elements
                     matching_elements = [e for e in existing_elements if e['XPath'] == xpath]
@@ -141,15 +145,15 @@ class TestPage:
                         if changes:
                             matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
                             updates_occurred = True
-                            logging.info(f'Element {element_type} at {xpath} changed: ' + ', '.join(changes))
+                            logging.info(f'Element {element_type} named {text} at {xpath} changed: ' + ', '.join(changes))
                         elif matching_elements[0]['Referenceable'] == 'No':
                             matching_elements[0]['Referenceable'] = 'Yes'
                             matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
-                            logging.info(f'Element {element_type} at {xpath} updated')
+                            logging.info(f'Element {element_type} named {text} at {xpath} updated')
                         else:
-                            logging.info(f'Element {element_type} at {xpath} exists')
+                            logging.info(f'Element {element_type} {text} at {xpath} exists')
                     else:
-                        logging.info(f'Element {element_type} at {xpath} added')
+                        logging.info(f'Element {element_type} named {text} at {xpath} added')
                         new_elements.append({
                             "Number": len(new_elements) + 1,
                             "Type": element_type,
