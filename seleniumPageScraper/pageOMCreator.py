@@ -13,6 +13,11 @@ logging.config.dictConfig(config)
 logger = logging.getLogger()
 
 
+from selenium.webdriver.common.by import By
+from PIL import Image
+import io
+import logging
+
 class Page:
     def __init__(self, driver, url):
         self.driver = driver
@@ -30,30 +35,52 @@ class Page:
         return Image.open(io.BytesIO(screenshot))
 
     def get_elements(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, '*')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, '*')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def get_buttons(self):
-        button_elements = self.driver.find_elements(By.CSS_SELECTOR, 'button')
-        input_button_elements = self.driver.find_elements(By.CSS_SELECTOR, 'input[type=button], input[type=submit], input[type=reset]')
-        return button_elements + input_button_elements
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'button, input[type=button], input[type=submit], input[type=reset]')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def get_links(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'a')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'a')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def get_text_boxes(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'input[type=text], textarea')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'input[type=text], textarea')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def fetch_images(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'img')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'img')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def fetch_checkboxes(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'input[type=checkbox]')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'input[type=checkbox]')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def fetch_radio_buttons(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'input[type=radio]')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'input[type=radio]')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def fetch_dropdowns(self):
-        return self.driver.find_elements(By.CSS_SELECTOR, 'select')
+        elements = self.driver.find_elements(By.CSS_SELECTOR, 'select')
+        for element in elements:
+            element.descriptive_name = self.get_descriptive_name(element)
+        return elements
 
     def click(self, element):
         element.click()
@@ -61,6 +88,22 @@ class Page:
     def fill(self, element, text):
         element.clear()
         element.send_keys(text)
+
+    def get_descriptive_name(self, element):
+        # Attempt to retrieve descriptive text from various attributes
+        text = element.get_attribute('aria-label') or element.get_attribute('title')
+        if not text:
+            aria_labelledby = element.get_attribute('aria-labelledby')
+            if aria_labelledby:
+                ids = aria_labelledby.split()
+                labels = [self.driver.find_element(By.ID, id).text for id in ids if self.driver.find_element(By.ID, id).text]
+                text = ' '.join(labels)
+        if not text:
+            text = element.text
+        if not text:
+            text = self.driver.execute_script("return arguments[0].textContent.trim();", element)
+        return text
+
 
 
 class TestPage:
@@ -117,54 +160,64 @@ class TestPage:
             logger.error('File elements.json not found. An new elements.json file will be created.')
         return existing_elements
 
+    # TODO: Remove this method and replace with get_descriptive_name from Page class
+
+
+
     def compare_elements(self, elements, existing_elements):
         new_elements = []
         updates_occurred = False
+        count = len(existing_elements)
+        changes = []
+
         for element_type, elements in elements.items():
             for element in elements:
                 if element.is_displayed():
                     xpath = self.get_xpath(element)
-                    text = element.text
-                    if not text:  # if text is empty
-                        aria_label = element.get_attribute('aria-label')
-                        if aria_label:  # if aria-label is available
-                            text = aria_label
+                    text = self.page.get_descriptive_name(element)
                     class_name = element.get_attribute('class')
-                    logging.debug(f'Testing element: {element_type} named {text} at {xpath}')  # Log the element being tested
+                    element_name = element.get_attribute('name') if element.get_attribute('name') \
+                        else self.page.get_descriptive_name(element)
 
-                    # Check if the element exists in the existing elements
+                    # Match against existing elements in json using xpath; update if changes are detected
                     matching_elements = [e for e in existing_elements if e['XPath'] == xpath]
                     if matching_elements:
-                        changes = []
-                        fields_to_check = {'Text': text, 'Class': class_name}
+                        # Check if any key element attrib has changed
+                        fields_to_check = {'Label': text, 'Class': class_name, 'XPath': xpath,
+                                           'ID': element.get_attribute('id'), 'Name': element_name, 'Type': element_type,
+                                           'Referenceable': 'Yes'}
                         for field, new_value in fields_to_check.items():
                             old_value = matching_elements[0][field]
                             if old_value != new_value:
                                 changes.append(f'Old {field}: {old_value}, New {field}: {new_value}')
                                 matching_elements[0][field] = new_value
-                        if changes:
+
+                        if changes:  # If there are any changes, update the timestamp and log the changes
                             matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
                             updates_occurred = True
-                            logging.info(f'Element {element_type} named {text} at {xpath} changed: ' + ', '.join(changes))
-                        elif matching_elements[0]['Referenceable'] == 'No':
-                            matching_elements[0]['Referenceable'] = 'Yes'
-                            matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
-                            logging.info(f'Element {element_type} named {text} at {xpath} updated')
+                            logging.info(
+                                f'Element #{matching_elements[0]['Number']} {element_type} named {text} \at {xpath} changed: ' + ', '.join(changes))
                         else:
-                            logging.info(f'Element {element_type} named {text} at {xpath} exists')
-                    else:
-                        logging.info(f'Element {element_type} named {text} at {xpath} added')
+                            logging.info(f'Element #{matching_elements[0]['Number']} {element_type} named {text} at {xpath} exists')
+                    else:  # Add new element to json
+                        count = count + 1
                         new_elements.append({
-                            "Number": len(new_elements) + 1,
+                            "Number": count,
                             "Type": element_type,
-                            "Name": element.get_attribute('name'),
+                            "Name": element_name,
                             "XPath": xpath,
                             "ID": element.get_attribute('id'),
                             "Class": class_name,
-                            "Text": text,
+                            "Label": text,
                             "Referenceable": "Yes",
                             "Timestamp": str(datetime.datetime.now())
                         })
+                        logging.info(f'New Element #{count} {element_type} named {text} at {xpath} found')
+        if new_elements or updates_occurred:
+            logging.info(f'Writing {len(new_elements)} new and {len(changes)} updates to elements.json')
+            self.write_updates(existing_elements, new_elements)
+        else:
+            logging.info('No changes detected')
         return new_elements, updates_occurred
 
     def log_changes(self, updates_occurred):
@@ -176,15 +229,13 @@ class TestPage:
             json.dump(existing_elements + new_elements, file, indent=4)
 
     def test_elements(self):
-        ## logging info to logs first time
-        #logging.info('test_elements method started')
+        logging.info('Searching for elements on page ' + self.page.url)
         elements = self.fetch_elements()
         existing_elements = self.read_existing_elements()
         new_elements, updates_occurred = self.compare_elements(elements, existing_elements)
         self.log_changes(updates_occurred)
-        self.write_updates(existing_elements, new_elements)
         self.take_screenshot_and_highlight()
-        logging.info('test_elements method finished')
+
 
     def teardown(self):
         self.page.driver.quit()
@@ -198,6 +249,7 @@ class TestPage:
         draw = ImageDraw.Draw(img)
 
         # Find the elements and draw a box around each one
+        # TODO: Need to find a better way to highlight and label elements
         for element in self.page.driver.find_elements(By.CSS_SELECTOR, '*'):
             if element.is_displayed():  # Only draw boxes around visible elements
                 # Get the location and size of the element
