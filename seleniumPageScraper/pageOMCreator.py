@@ -1,10 +1,9 @@
-from selenium.webdriver.common.by import By
-from PIL import Image, ImageDraw
-import io
-from selenium import webdriver
 import datetime
-import logging.config
 import json
+import logging.config
+
+from PIL import ImageDraw
+from selenium import webdriver
 
 with open('./seleniumPageScraper/config/logging_config.json', 'r') as f:
     config = json.load(f)
@@ -12,11 +11,11 @@ with open('./seleniumPageScraper/config/logging_config.json', 'r') as f:
 logging.config.dictConfig(config)
 logger = logging.getLogger()
 
-
 from selenium.webdriver.common.by import By
 from PIL import Image
 import io
 import logging
+
 
 class Page:
     def __init__(self, driver, url):
@@ -41,7 +40,8 @@ class Page:
         return elements
 
     def get_buttons(self):
-        elements = self.driver.find_elements(By.CSS_SELECTOR, 'button, input[type=button], input[type=submit], input[type=reset]')
+        elements = self.driver.find_elements(By.CSS_SELECTOR,
+                                             'button, input[type=button], input[type=submit], input[type=reset]')
         for element in elements:
             element.descriptive_name = self.get_descriptive_name(element)
         return elements
@@ -96,14 +96,14 @@ class Page:
             aria_labelledby = element.get_attribute('aria-labelledby')
             if aria_labelledby:
                 ids = aria_labelledby.split()
-                labels = [self.driver.find_element(By.ID, id).text for id in ids if self.driver.find_element(By.ID, id).text]
+                labels = [self.driver.find_element(By.ID, id).text for id in ids if
+                          self.driver.find_element(By.ID, id).text]
                 text = ' '.join(labels)
         if not text:
             text = element.text
         if not text:
             text = self.driver.execute_script("return arguments[0].textContent.trim();", element)
         return text
-
 
 
 class TestPage:
@@ -160,10 +160,6 @@ class TestPage:
             logger.error('File elements.json not found. An new elements.json file will be created.')
         return existing_elements
 
-    # TODO: Remove this method and replace with get_descriptive_name from Page class
-
-
-
     def compare_elements(self, elements, existing_elements):
         new_elements = []
         updates_occurred = False
@@ -184,7 +180,8 @@ class TestPage:
                     if matching_elements:
                         # Check if any key element attrib has changed
                         fields_to_check = {'Label': text, 'Class': class_name, 'XPath': xpath,
-                                           'ID': element.get_attribute('id'), 'Name': element_name, 'Type': element_type,
+                                           'ID': element.get_attribute('id'), 'Name': element_name,
+                                           'Type': element_type,
                                            'Referenceable': 'Yes'}
                         for field, new_value in fields_to_check.items():
                             old_value = matching_elements[0][field]
@@ -196,9 +193,11 @@ class TestPage:
                             matching_elements[0]['Timestamp'] = str(datetime.datetime.now())
                             updates_occurred = True
                             logging.info(
-                                f'Element #{matching_elements[0]['Number']} {element_type} named {text} \at {xpath} changed: ' + ', '.join(changes))
+                                f'Element #{matching_elements[0]['Number']} {element_type} named {text} \at {xpath} changed: ' + ', '.join(
+                                    changes))
                         else:
-                            logging.info(f'Element #{matching_elements[0]['Number']} {element_type} named {text} at {xpath} exists')
+                            logging.info(
+                                f'Element #{matching_elements[0]['Number']} {element_type} named {text} at {xpath} exists')
                     else:  # Add new element to json
                         count = count + 1
                         new_elements.append({
@@ -235,7 +234,6 @@ class TestPage:
         new_elements, updates_occurred = self.compare_elements(elements, existing_elements)
         self.log_changes(updates_occurred)
         self.take_screenshot_and_highlight()
-
 
     def teardown(self):
         self.page.driver.quit()
