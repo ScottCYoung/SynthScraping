@@ -1,0 +1,211 @@
+[
+    {
+        "Number": 1,
+        "Type": "button",
+        "Name": "Share",
+        "XPath": "/html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2]",
+        "ID": "",
+        "Class": "DoEL0b",
+        "Label": "Share",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.581693"
+    },
+    {
+        "Number": 2,
+        "Type": "button",
+        "Name": "btnK",
+        "XPath": "/html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1]",
+        "ID": "",
+        "Class": "gNO89b",
+        "Label": "Google Search",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.672163"
+    },
+    {
+        "Number": 3,
+        "Type": "button",
+        "Name": "btnI",
+        "XPath": "/html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2]",
+        "ID": "gbqfbb",
+        "Class": "",
+        "Label": "I'm Feeling Lucky",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.760214"
+    },
+    {
+        "Number": 4,
+        "Type": "link",
+        "Name": "About",
+        "XPath": "/html/body[2]/div[2]/div[1]/a[2]",
+        "ID": "",
+        "Class": "MV3Tnb",
+        "Label": "About",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.821785"
+    },
+    {
+        "Number": 5,
+        "Type": "link",
+        "Name": "Store",
+        "XPath": "/html/body[2]/div[2]/div[1]/a[3]",
+        "ID": "",
+        "Class": "MV3Tnb",
+        "Label": "Store",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.886513"
+    },
+    {
+        "Number": 6,
+        "Type": "link",
+        "Name": "Gmail ",
+        "XPath": "/html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "ID": "",
+        "Class": "gb_I",
+        "Label": "Gmail ",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:43.980018"
+    },
+    {
+        "Number": 7,
+        "Type": "link",
+        "Name": "Search for Images ",
+        "XPath": "/html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+        "ID": "",
+        "Class": "gb_I",
+        "Label": "Search for Images ",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.081396"
+    },
+    {
+        "Number": 8,
+        "Type": "link",
+        "Name": "Google apps",
+        "XPath": "/html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+        "ID": "",
+        "Class": "gb_d",
+        "Label": "Google apps",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.183385"
+    },
+    {
+        "Number": 9,
+        "Type": "link",
+        "Name": "Sign in",
+        "XPath": "/html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2]",
+        "ID": "",
+        "Class": "gb_Ca gb_md gb_Od gb_me",
+        "Label": "Sign in",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.265455"
+    },
+    {
+        "Number": 10,
+        "Type": "link",
+        "Name": ".lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom}",
+        "XPath": "/html/body[2]/div[2]/div[2]/div[2]/a[3]",
+        "ID": "",
+        "Class": "",
+        "Label": ".lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom}",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.338818"
+    },
+    {
+        "Number": 11,
+        "Type": "link",
+        "Name": "Advertising",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "Advertising",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.412733"
+    },
+    {
+        "Number": 12,
+        "Type": "link",
+        "Name": "Business",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "Business",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.496168"
+    },
+    {
+        "Number": 13,
+        "Type": "link",
+        "Name": "How Search works",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "How Search works",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.569972"
+    },
+    {
+        "Number": 14,
+        "Type": "link",
+        "Name": "Our third decade of climate action: join us",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "Our third decade of climate action: join us",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.643297"
+    },
+    {
+        "Number": 15,
+        "Type": "link",
+        "Name": "Privacy",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "Privacy",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.718028"
+    },
+    {
+        "Number": 16,
+        "Type": "link",
+        "Name": "Terms",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2]",
+        "ID": "",
+        "Class": "pHiOh",
+        "Label": "Terms",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.798049"
+    },
+    {
+        "Number": 17,
+        "Type": "text_box",
+        "Name": "q",
+        "XPath": "/html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3]",
+        "ID": "APjFqb",
+        "Class": "gLFyf",
+        "Label": "Search",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.898826"
+    },
+    {
+        "Number": 18,
+        "Type": "image",
+        "Name": "Mother's Day (May 12) 2024",
+        "XPath": "/html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1]",
+        "ID": "hplogo",
+        "Class": "lnXdpd",
+        "Label": "Mother's Day (May 12) 2024",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:44.980427"
+    },
+    {
+        "Number": 19,
+        "Type": "image",
+        "Name": "",
+        "XPath": "/html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1]",
+        "ID": "",
+        "Class": "Pb9hCb",
+        "Label": "",
+        "Referenceable": "Yes",
+        "Timestamp": "2024-05-12 11:36:45.079793"
+    }
+]

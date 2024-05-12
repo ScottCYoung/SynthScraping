@@ -1,0 +1,1017 @@
+root - ERROR - File elements.json not found. An empty list will be used instead.
+root - INFO - Element button at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image at /html/body[2]/div[2]/div[2]/div[2]/img[2] added
+root - INFO - Element image at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Search Labs at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] changed: Old Text: Google apps, New Text: Search Labs
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] changed: Old Class: gN89b, New Class: gNO89b
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] changed: Old Text: Search Labs, New Text: Google apps
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] changed: Old Class: gNO8b, New Class: gNO89b
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] changed: Old Class: P9hCb, New Class: Pb9hCb
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Images at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[2]/div[2]/img[2] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named  at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - None
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - None
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] changed: Old Text: Gmail, New Text: Gmail 
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] changed: Old Text: Images, New Text: Search for Images 
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] changed: Old Name: Shre, New Name: Share
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] changed: Old Class: DoEL=0b, New Class: DoEL0b, Old Name: Shre, New Name: Share
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] changed: Old Class: DoEL=0b, New Class: DoEL0b, Old Name: Shre, New Name: Share
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] changed: Old Referenceable: no, New Referenceable: Yes
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element #0 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element #0 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element #0 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element #0 link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element #0 link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element #0 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element #0 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element #0 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element #0 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element #0 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element #0 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element #0 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element #0 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element #0 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element #0 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element #0 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element #0 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element #0 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element #0 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] added
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] added
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] added
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] added
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] added
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] added
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] added
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] added
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] added
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] added
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] added
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] added
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] added
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] added
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] added
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] added
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] added
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] added
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - New Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] found
+root - INFO - New Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] found
+root - INFO - New Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] found
+root - INFO - New Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] found
+root - INFO - New Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] found
+root - INFO - New Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] found
+root - INFO - New Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] found
+root - INFO - New Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] found
+root - INFO - New Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] found
+root - INFO - New Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] found
+root - INFO - New Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] found
+root - INFO - New Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] found
+root - INFO - New Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] found
+root - INFO - New Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] found
+root - INFO - New Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] found
+root - INFO - New Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] found
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element 2 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element 3 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element 4 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element 5 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element 6 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element 7 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element 8 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element 9 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element 10 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element 11 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element 12 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element 13 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element 14 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element 15 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element 16 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element 17 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element 18 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element 19 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element 20 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #2 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #3 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #4 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #5 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #6 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #7 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #8 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #9 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #10 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #11 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #12 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #13 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #14 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #15 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #16 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #17 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #18 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #19 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #20 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - New Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] found
+root - INFO - New Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] found
+root - INFO - New Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] found
+root - INFO - New Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] found
+root - INFO - New Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] found
+root - INFO - New Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] found
+root - INFO - New Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] found
+root - INFO - New Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] found
+root - INFO - New Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] found
+root - INFO - New Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] found
+root - INFO - New Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] found
+root - INFO - New Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] found
+root - INFO - New Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] found
+root - INFO - New Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] found
+root - INFO - New Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] found
+root - INFO - New Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] found
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] changed: Old Label: Shre, New Label: Share
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  t /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] changed: Old Class: PbhCb, New Class: Pb9hCb
+root - INFO - Writing 0 new and 1 updates to elements.json
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - New Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] found
+root - INFO - New Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] found
+root - INFO - New Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] found
+root - INFO - New Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] found
+root - INFO - New Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] found
+root - INFO - New Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] found
+root - INFO - New Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] found
+root - INFO - New Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] found
+root - INFO - New Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] found
+root - INFO - New Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] found
+root - INFO - New Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] found
+root - INFO - New Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] found
+root - INFO - New Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] found
+root - INFO - New Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] found
+root - INFO - New Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] found
+root - INFO - New Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] found
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - New Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] found
+root - INFO - New Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] found
+root - INFO - New Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] found
+root - INFO - New Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] found
+root - INFO - New Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] found
+root - INFO - New Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] found
+root - INFO - New Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] found
+root - INFO - New Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] found
+root - INFO - New Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] found
+root - INFO - New Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] found
+root - INFO - New Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] found
+root - INFO - New Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] found
+root - INFO - New Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] found
+root - INFO - New Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] found
+root - INFO - New Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] found
+root - INFO - New Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] found
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - INFO - Writing 19 new and 0 updates to elements.json
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search t /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] changed: Old Class: gLyf, New Class: gLFyf
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 t /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] changed: Old Class: gLyf, New Class: gLFyf
+root - INFO - Element #19 image named  t /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] changed: Old Class: gLyf, New Class: gLFyf
+root - INFO - Writing 0 new and 1 updates to elements.json
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  t /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] changed: Old Class: Pb9hb, New Class: Pb9hCb
+root - INFO - Writing 0 new and 1 updates to elements.json
+root - INFO - Updates occurred during this run
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - test_elements method finished
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - test_elements method finished
+root - ERROR - File elements.json not found. An new elements.json file will be created.
+root - INFO - New Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] found
+root - INFO - New Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] found
+root - INFO - New Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] found
+root - INFO - New Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] found
+root - INFO - New Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] found
+root - INFO - New Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] found
+root - INFO - New Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] found
+root - INFO - New Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] found
+root - INFO - New Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] found
+root - INFO - New Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] found
+root - INFO - New Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] found
+root - INFO - New Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] found
+root - INFO - New Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] found
+root - INFO - New Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] found
+root - INFO - New Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] found
+root - INFO - New Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] found
+root - INFO - New Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] found
+root - INFO - New Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] found
+root - INFO - Writing 19 new and 0 updates to elements.json
+root - INFO - test_elements method finished
+root - INFO - Searching for elements on pagehttp://google.com
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
+root - INFO - Searching for elements on page http://google.com
+root - INFO - Searching for elements on page http://google.com
+root - INFO - Searching for elements on page http://google.com
+root - INFO - Searching for elements on page http://google.com
+root - INFO - Previous Elements loaded from elements.json
+root - INFO - Element #1 button named Share at /html/body[2]/div[2]/div[2]/div[2]/div[4]/button[2] exists
+root - INFO - Element #2 button named Google Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[1] exists
+root - INFO - Element #3 button named I'm Feeling Lucky at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[5]/center[1]/input[2] exists
+root - INFO - Element #4 link named About at /html/body[2]/div[2]/div[1]/a[2] exists
+root - INFO - Element #5 link named Store at /html/body[2]/div[2]/div[1]/a[3] exists
+root - INFO - Element #6 link named Gmail  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #7 link named Search for Images  at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1] exists
+root - INFO - Element #8 link named Google apps at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1] exists
+root - INFO - Element #9 link named Sign in at /html/body[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/a[2] exists
+root - INFO - Element #10 link named .lnXdpd{max-height:100%;max-width:100%;object-fit:contain;object-position:center bottom;width:auto;vertical-align:bottom} at /html/body[2]/div[2]/div[2]/div[2]/a[3] exists
+root - INFO - Element #11 link named Advertising at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[1] exists
+root - INFO - Element #12 link named Business at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[2] exists
+root - INFO - Element #13 link named How Search works at /html/body[2]/div[2]/div[6]/div[2]/div[1]/a[3] exists
+root - INFO - Element #14 link named Our third decade of climate action: join us at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1] exists
+root - INFO - Element #15 link named Privacy at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[1] exists
+root - INFO - Element #16 link named Terms at /html/body[2]/div[2]/div[6]/div[2]/div[3]/a[2] exists
+root - INFO - Element #17 text_box named Search at /html/body[2]/div[2]/div[3]/form[3]/div[1]/div[1]/div[2]/div[1]/div[2]/textarea[3] exists
+root - INFO - Element #18 image named Mother's Day (May 12) 2024 at /html/body[2]/div[2]/div[2]/div[2]/a[3]/picture[2]/img[1] exists
+root - INFO - Element #19 image named  at /html/body[2]/div[2]/div[6]/div[2]/div[2]/a[1]/img[1] exists
+root - INFO - No changes detected
